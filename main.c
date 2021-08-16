@@ -424,14 +424,14 @@ void exit_program(){
     system("cls");
     printf("\n\n\tThanks for using C-SEWA\n");
     delay(1);
-    printf("\tCreated with <3 by:\n");
+    printf("\tCreated with <3 by: \n");
     delay(1);
-    printf("\tAnjila Adhikari\t(077BCE015)\n");
-    printf("\tAshim Paudel\t(077BCE021)\n");
+    printf("\tAshim Paudel\n");
+    printf("\t9862548802\n");
     delay(1);
-    printf("\tBibek Pathak\t(077BCE033)\n");
+    printf("\tpaudelashim111@gmail.com\n");
     delay(1);
-    printf("\tBishal Mahara\t(077BCE045)\n");
+    printf("\thttps://www.ashim-paudel.com.np\n");
     delay(3);
     exit(0);
 }
